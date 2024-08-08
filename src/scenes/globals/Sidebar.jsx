@@ -4,6 +4,7 @@ import "react-pro-sidebar/dist/css/styles.css";
 import { Box, IconButton, Typography, useTheme } from '@mui/material';
 import { Link } from "react-router-dom";
 import { tokens } from '../../theme';
+import user from '../../assets/user.png';
 import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined';
 import ContactSupportOutlinedIcon from '@mui/icons-material/ContactSupportOutlined';
 import PeopleOutlineOutlinedIcon from '@mui/icons-material/PeopleOutlineOutlined';
@@ -96,7 +97,7 @@ const Sidebar = () => {
                                     alt="profile-user"
                                     width="100px"
                                     height="100px"
-                                    src={`../../assets/user.png`}
+                                    src={user}
                                     style={{ cursor: "pointer", borderRadius: "50%" }}
                                 />
                             </Box>

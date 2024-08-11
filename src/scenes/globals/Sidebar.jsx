@@ -4,7 +4,7 @@ import "react-pro-sidebar/dist/css/styles.css";
 import { Box, IconButton, Typography, useTheme } from '@mui/material';
 import { Link } from "react-router-dom";
 import { tokens } from '../../theme';
-import user from '../../assets/user.png';
+import user from '../../assets/user.jpg';
 import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined';
 import ContactSupportOutlinedIcon from '@mui/icons-material/ContactSupportOutlined';
 import PeopleOutlineOutlinedIcon from '@mui/icons-material/PeopleOutlineOutlined';

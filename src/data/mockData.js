@@ -3,8 +3,8 @@ import { tokens } from "../theme";
 export const mockDataTeam = [
   {
     id: 1,
-    name: "Riya Banik",
-    email: "rbanik191@gmail.com",
+    name: "John Doe",
+    email: "jdoe@gmail.com",
     age: 25,
     phone: "(880)121-5454",
     access: "admin",
@@ -78,13 +78,13 @@ export const mockDataTeam = [
 export const mockDataContacts = [
   {
     id: 1,
-    name: "Riya Banik",
-    email: "rbanik191@gmail.com",
+    name: "John Doe",
+    email: "jdoe@gmail.com",
     age: 25,
     phone: "(880)121-5454",
-    address: "Farmgate, Dhaka",
-    city: "Dhaka",
-    zipCode: "1215",
+    address: "Want Blvd, NW",
+    city: "New York",
+    zipCode: "61166",
     registrarId: 123512,
   },
   {
@@ -202,8 +202,8 @@ export const mockDataContacts = [
 export const mockDataInvoices = [
   {
     id: 1,
-    name: "Riya Banik",
-    email: "rbanik191@gmail.com",
+    name: "John Doe",
+    email: "jdoe@gmail.com",
     cost: "21.24",
     phone: "(880)121-5454",
     date: "03/12/2022",

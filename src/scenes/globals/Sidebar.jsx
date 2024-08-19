@@ -107,7 +107,7 @@ const Sidebar = () => {
                                     color={colors.grey[100]}
                                     fontWeight="bold"
                                     sx = {{ m: "10px 0 0 0" }}
-                                >Riya Banik</Typography>
+                                >Sowrin Paul</Typography>
                                 <Typography variant="h5" color={colors.greenAccent[500]}>
                                     VIP Fancy Admin
                                 </Typography>
